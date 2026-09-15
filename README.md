@@ -1,0 +1,2 @@
+# AquaGuard_VLM_GLM_BigModel_YOLO2027
+计算机毕业设计YOLO目标检测+VLM视觉大模型的水面漂浮物垃圾检测分析系统
